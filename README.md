@@ -1,2 +1,2 @@
 # MES
-web calculator
+ESP32 web calculator
